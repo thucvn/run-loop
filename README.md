@@ -1,11 +1,11 @@
 This library helps you run task till successful\
 First install the library
 ```
-npm i @run-loop/thucvn
+npm i run-loop
 ```
 Import the library
 ```
-const {loopTask} = require('@run-loop/thucvn')
+const {loopTask} = require('run-loop')
 ```
 Call the loop function
 ```
