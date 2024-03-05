@@ -1,5 +1,5 @@
 {
-  "name": "run-loop",
+  "name": "run-loop-til-success",
   "version": "1.0.0",
   "description": "Looping your task til success",
   "main": "index.js",

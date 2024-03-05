@@ -1,11 +1,11 @@
 This library helps you run task till successful\
 First install the library
 ```
-npm i run-loop
+npm i run-loop-til-success
 ```
 Import the library
 ```
-const {loopTask} = require('run-loop')
+const {loopTask} = require('run-loop-til-success')
 ```
 Call the loop function
 ```
