@@ -1,0 +1,27 @@
+{
+  "name": "@run-loop/thucvn",
+  "version": "1.0.0",
+  "description": "Looping your task til success",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thucvn/run-loop.git"
+  },
+  "keywords": [
+    "loop",
+    "run",
+    "successfull"
+  ],
+  "author": "thucvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thucvn/run-loop/issues"
+  },
+  "homepage": "https://github.com/thucvn/run-loop#readme",
+  "dependencies": {
+    "infinity-utils": "^1.0.1"
+  }
+}
